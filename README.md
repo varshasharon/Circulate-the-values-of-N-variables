@@ -29,6 +29,6 @@ def circulate():
     print("After circulating the values are:",l)
 ```
 ## Output:
-![MODEL](circulate.png)
+![output](/cir.png)
 ## Result:
 Thus circulating the values of N variables is executed successfully.
